@@ -126,7 +126,7 @@ Vamos a profundizar y crear un programa sencillo.
 
    ![IDE de Visual Studio](media/overview-ide-console-app.png)
 
-   En la ventana del editor se muestra el código de C# de la aplicación, que ocupa la mayor parte del espacio. Observe que el texto se colorea automáticamente para indicar diferentes partes del código, como palabras clave y tipos. Además, líneas pequeñas, verticales y discontinuas en el código indican qué llaves coinciden, y los números de línea sirven para ubicar código más adelante. Puede elegir el pequeño signo menos de la casilla para contraer o expandir bloques de código. Esta característica de esquematización de código le permite ocultar el código que no necesita, ayudando a minimizar el desorden en la pantalla. Los archivos del proyecto se muestran en el lado derecho de una ventana llamada **Explorador de soluciones**.
+   En la ventana del editor se muestra el código de C# de la aplicación, que ocupa la mayor parte del espacio. Observe que el texto se colorea automáticamente para indicar diferentes partes del código, como palabras clave y tipos. Además, las líneas pequeñas, verticales y discontinuas en el código indican qué llaves coinciden, y los números de línea lo ayudan a ubicar el código más adelante. Puede elegir el pequeño signo menos de la casilla para contraer o expandir bloques de código. Esta característica de esquematización de código le permite ocultar el código que no necesita, ayudando a minimizar el desorden en la pantalla. Los archivos del proyecto se muestran en el lado derecho de una ventana llamada **Explorador de soluciones**.
 
    ![IDE de Visual Studio con cuadros rojos](media/overview-ide-console-app-red-boxes.png)
 
